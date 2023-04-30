@@ -1,0 +1,11 @@
+D:\repos\Paint_Thread\Paint_Thread\bin\Debug\Paint_Thread.exe.config
+D:\repos\Paint_Thread\Paint_Thread\bin\Debug\Paint_Thread.exe
+D:\repos\Paint_Thread\Paint_Thread\bin\Debug\Paint_Thread.pdb
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.csproj.AssemblyReference.cache
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.csproj.SuggestedBindingRedirects.cache
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.Form1.resources
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.Properties.Resources.resources
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.csproj.GenerateResource.cache
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.csproj.CoreCompileInputs.cache
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.exe
+D:\repos\Paint_Thread\Paint_Thread\obj\Debug\Paint_Thread.pdb
